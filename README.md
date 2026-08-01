@@ -25,7 +25,7 @@ echo "deb [signed-by=/etc/apt/keyrings/antstack.gpg] https://ant-software-house.
 
 # 3. Install
 sudo apt update
-sudo apt install antstack
+sudo apt install ant-stack
 ```
 
 Upgrades happen automatically with `sudo apt upgrade`.
@@ -46,7 +46,7 @@ gpgkey=https://ant-software-house.github.io/ant-stack-app-releases/rpm/antstack-
 REPO
 
 # 2. Install
-sudo dnf install antstack
+sudo dnf install ant-stack
 ```
 
 Upgrades happen automatically with `sudo dnf upgrade`.

@@ -35,7 +35,26 @@ Upgrades happen automatically with `sudo apt upgrade`.
 ## Fedora / RHEL (dnf)
 
 ```bash
-# 1. Add the repository (one-time — includes the signing key reference)
+# 1. Add the repository (one-time)
+sudo dnf config-manager addrepo --from-repofile=https://ant-software-house.github.io/ant-stack-app-releases/rpm/antstack.repo
+
+# 2. Install
+sudo dnf install ant-stack
+```
+
+Upgrades happen automatically with `sudo dnf upgrade`.
+
+<details>
+<summary>Older dnf4 / RHEL systems (no <code>addrepo --from-repofile</code>)</summary>
+
+```bash
+sudo dnf config-manager --add-repo=https://ant-software-house.github.io/ant-stack-app-releases/rpm/antstack.repo
+sudo dnf install ant-stack
+```
+
+Or write the repo file by hand:
+
+```bash
 sudo tee /etc/yum.repos.d/antstack.repo > /dev/null <<'REPO'
 [antstack]
 name=AntStack Desktop
@@ -44,12 +63,10 @@ enabled=1
 gpgcheck=1
 gpgkey=https://ant-software-house.github.io/ant-stack-app-releases/rpm/antstack-release-public.asc
 REPO
-
-# 2. Install
 sudo dnf install ant-stack
 ```
 
-Upgrades happen automatically with `sudo dnf upgrade`.
+</details>
 
 ---
 

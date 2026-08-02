@@ -1,0 +1,6 @@
+[antstack]
+name=AntStack Desktop
+baseurl=https://ant-software-house.github.io/ant-stack-app-releases/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://ant-software-house.github.io/ant-stack-app-releases/rpm/antstack-release-public.asc

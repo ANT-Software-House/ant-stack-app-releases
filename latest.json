@@ -1,35 +1,35 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.8",
   "notes": "See CHANGELOG.md for details.",
-  "pub_date": "2026-08-25T13:40:12.884Z",
+  "pub_date": "2026-08-25T14:53:44.395Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wncwc2hncS9yRmxkSDVxbW1ybnljZnRrSDFCeXVGTTZWUEowRzlPK2plWTArU2RtOVJIdW5qZ1Z5b2VzTWIxUnY2aERkVU9aZklpQWZzaVpXcU91REFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY0OTkwCWZpbGU6QW50U3RhY2tfMC4yLjdfYW1kNjQuQXBwSW1hZ2UKdlgzYW1oVkZCZDl3UWU0NU8yeVJUem94QTRlOHhMMWJZNDFSVVdLbGFZbU9PeGlwVEE1RnI3aXErZjZrZ1o5MENlOGQvQjFINW9zZUJ5Q3Awand5RFE9PQo=",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wi9xbm5TQ1VEaDJia0QxZTEzVTUwU3kwTkkrYUtpNGx0dEM0bTQzNGNXbGxrbkZGLzI1RTJFWjQ4dzBXc2NMMEREZlB5RkYxbkwzSFV0TjBSZXRhTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5MjIxCWZpbGU6QW50U3RhY2tfMC4yLjhfYW1kNjQuQXBwSW1hZ2UKNnQxcXlzU3hwb25NeDBSWkhqZmVHWHR0M1F6amw3U2NyYmlneDR4WXlic01yWG5BNmlyRzNlNnIveWdhNi9sZHpUclRldlNCQ2NkZTFSalZNV3dOQ0E9PQo=",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wncwc2hncS9yRmxkSDVxbW1ybnljZnRrSDFCeXVGTTZWUEowRzlPK2plWTArU2RtOVJIdW5qZ1Z5b2VzTWIxUnY2aERkVU9aZklpQWZzaVpXcU91REFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY0OTkwCWZpbGU6QW50U3RhY2tfMC4yLjdfYW1kNjQuQXBwSW1hZ2UKdlgzYW1oVkZCZDl3UWU0NU8yeVJUem94QTRlOHhMMWJZNDFSVVdLbGFZbU9PeGlwVEE1RnI3aXErZjZrZ1o5MENlOGQvQjFINW9zZUJ5Q3Awand5RFE9PQo=",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wi9xbm5TQ1VEaDJia0QxZTEzVTUwU3kwTkkrYUtpNGx0dEM0bTQzNGNXbGxrbkZGLzI1RTJFWjQ4dzBXc2NMMEREZlB5RkYxbkwzSFV0TjBSZXRhTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5MjIxCWZpbGU6QW50U3RhY2tfMC4yLjhfYW1kNjQuQXBwSW1hZ2UKNnQxcXlzU3hwb25NeDBSWkhqZmVHWHR0M1F6amw3U2NyYmlneDR4WXlic01yWG5BNmlyRzNlNnIveWdhNi9sZHpUclRldlNCQ2NkZTFSalZNV3dOQ0E9PQo=",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjNGT290SDcxS1Z0VEovL1lmRjZqVFJaR1hYejhtU1hDejFyZ2lVUHZFd3VHY1VJakpaVWRxckdvU1dtNHhTRlB1K2EzbExoRVVZUmxHUGxreWRaWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY0OTkwCWZpbGU6QW50U3RhY2tfMC4yLjdfYW1kNjQuZGViCjZXQ090cGp4S3JWVzlxanA1MlRKSlJJRVc1RzgyUDlldWVCS2lXcENicGltaTZZSkY0dXhKZG5OOGQ2WmZwQ1prM1VYMHhFYkxBVDlEMmpXUEFWMEFnPT0K",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WnpIdlFVTC9iL0NYem52ZFgxVFlQakFlRUxicCtSb25kOGZHUkJXRWlTREpSWm5PSTFidzU0NFE4Q0pJaTYvcUVJZEk2Y2FGSk9EOHRRUWxwWnY3ZFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5MjIxCWZpbGU6QW50U3RhY2tfMC4yLjhfYW1kNjQuZGViCk1kWEhTM3ZsWE95SXdCcjhOR2tYUzBta0pjUlJYN0ZmOGlPYjRzb0hwdnRsWnRYZHc4KzgyUnZMSDQ2ZTE4RlZXQjhneFZQR2RqczA1UTBsWWhJNERBPT0K",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WncyaWJ6Z2xEK2p3VFZSZEQyOGxiK2JXL3M2NE5rUUl2ZkxHbEZMUHRUUkdIMmNiN1liNUV2bnJNbHZNM3MwVWMrcUxjNFI0ZG5PL1dnYTQ4cm9NR0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY0OTkwCWZpbGU6QW50U3RhY2stMC4yLjctMS54ODZfNjQucnBtClR5azhJbUgvZ2RrZ1VUVEVaK0VCc1NXZ1Y4TVpqMUVzc0l4RS9EN2lWNS9rV3FKdXM1ekhONDI4WmNTa3VYVWUyeElrLzVYN1lWVnN3OHBNajJRZEJRPT0K",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack-0.2.7-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wi9VREhzUGw5Ukk0RWwxWFpWR0JaWmdxYnN4VGUzWncwaTlkbmlJMTBLcDhoMzRLay85cEc4emNONi9HbkpXdHFkQkFVQlQrbi9RVFN6eVBERHFaekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5MjIxCWZpbGU6QW50U3RhY2stMC4yLjgtMS54ODZfNjQucnBtCms2dkdmbkptVTJwbEw1R2QwekRlSkRJZEtlZ3Nselp6eTZKU3ZRbDdHT1FPZWNPR2Y2Q1FTWVVyTGwzeFZndDRqa2hNUERVZUZ2OXVLQUR0TjVoTEJBPT0K",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack-0.2.8-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wi9UblUvMVliTlRwbzE3ZGhCUkhPRmVDZHdiZWdIUHI0S0Vkc0hNVWJabmVXbkhSVHM0dGdYL1VyZS9nZmRoS042eklGQVBvSVg2QWxCNGpza09kTVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY1MjAxCWZpbGU6QW50U3RhY2tfMC4yLjdfeDY0X2VuLVVTLm1zaQpydXhaZVIxV3pqblNzdlBJdWVCSUhrMGVMTGpUTjFhOHUxYm55Y3NvTWwwZ2N1MG9RZ3ZrUlBGcDdrRGJOWGFvUEViSnJIa0ZabkJvRFFMRmpNaUJDZz09Cg==",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjhaejFOa0JmRmhqQy90cFBtU09rZlBJZXoxNGNFcEJOMnp6SzArZ2tKdlRybFQvMFZqTFFlcTNyMGVXQTJOYlljM1Rac1l5WlRZbnNrc05rQlFFeUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5NjE2CWZpbGU6QW50U3RhY2tfMC4yLjhfeDY0X2VuLVVTLm1zaQphVEtGRWFrVmFNUkF3dU84TE1LckQzc1RCM3JLZm43eHlXVlNTMGV1UlNpNjZUM05NYXlkL2FMRGkwd3dPcWhTUHIvL3FJVzVsRFlBU0F1YnhwVVhCZz09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wi9UblUvMVliTlRwbzE3ZGhCUkhPRmVDZHdiZWdIUHI0S0Vkc0hNVWJabmVXbkhSVHM0dGdYL1VyZS9nZmRoS042eklGQVBvSVg2QWxCNGpza09kTVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY1MjAxCWZpbGU6QW50U3RhY2tfMC4yLjdfeDY0X2VuLVVTLm1zaQpydXhaZVIxV3pqblNzdlBJdWVCSUhrMGVMTGpUTjFhOHUxYm55Y3NvTWwwZ2N1MG9RZ3ZrUlBGcDdrRGJOWGFvUEViSnJIa0ZabkJvRFFMRmpNaUJDZz09Cg==",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjhaejFOa0JmRmhqQy90cFBtU09rZlBJZXoxNGNFcEJOMnp6SzArZ2tKdlRybFQvMFZqTFFlcTNyMGVXQTJOYlljM1Rac1l5WlRZbnNrc05rQlFFeUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5NjE2CWZpbGU6QW50U3RhY2tfMC4yLjhfeDY0X2VuLVVTLm1zaQphVEtGRWFrVmFNUkF3dU84TE1LckQzc1RCM3JLZm43eHlXVlNTMGV1UlNpNjZUM05NYXlkL2FMRGkwd3dPcWhTUHIvL3FJVzVsRFlBU0F1YnhwVVhCZz09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjR5TVlSYVRoeG9GaW1kZ2NqL3BZU05jVHFSZERMWENIT2sydzhDTUlOaXNIcU1XTWdLSW1EbmkxbWNBelE1MmZJMXdtTW1kYlBXR0FmWjNQUjJ2UUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY1MjAxCWZpbGU6QW50U3RhY2tfMC4yLjdfeDY0LXNldHVwLmV4ZQp3aXh6UFFLVEU5a3BhNlplRUpwbG5PSDFuMGpEbU9aY05OcVg0bm1KUzl5emRtMDcvRGtUVitZaGx6Q0xxOFN6ZzFHZXZGZ0pvM2pXL2hKYkRabmZDQT09Cg==",
-      "url": "https://github.com/ANT-Software-House/ant-stack-app/releases/download/v0.2.7/AntStack_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjJXc0pxcmZBR0JjNFVMRlVTU1JUV3hYY1BGVXl3Qmx2UWU1T1BIRkhkWEMvaGY4RWxsVVZVU0hvZjlSQXpqbXRwTkNoTGZkSEhVQWhoQWlmUktBUUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjY5NjE2CWZpbGU6QW50U3RhY2tfMC4yLjhfeDY0LXNldHVwLmV4ZQpnL3BQbyt3UGpGVnNqakdCS3VwYVMwaWpWQWl1QS9MMVQ3U1kwUGtJbVVZSG1wanBRQ0YyS1BHTHliVk9Wa3NBMkIwVk1rWlI4ZXRTRG5oMWlzVEVEUT09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.8/AntStack_0.2.8_x64-setup.exe"
     }
   }
 }

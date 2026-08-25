@@ -3,6 +3,22 @@ Priority: optional
 Installed-Size: 25941
 Maintainer: Ant Software
 Architecture: amd64
+Version: 0.2.7
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/a/ant-stack/AntStack_0.2.7_amd64.deb
+Size: 16243814
+MD5sum: 783a94348d111a9c8f5de9733d74ee82
+SHA1: 43d5c5b0e3ffc59a4e0f41e633d2379bab81d2e4
+SHA256: fd641904fcf0c90cd498908f15fb2d7291977ca97e5b43bc96d0b4901bf4d028
+SHA512: c399662ffa579c6a6e2ab8cc43a74d0cf89194fe51e4eff1f657ed83d3e5bd72552d74c5997cdc7e0df56f3a57bfda8b309a2774701ca59e4fa48a417bd092ce
+Description: AI-first spec-driven development desktop
+ AntStack Desktop — orchestrate AI agents to build software from spec to commit
+
+Package: ant-stack
+Priority: optional
+Installed-Size: 25941
+Maintainer: Ant Software
+Architecture: amd64
 Version: 0.2.6
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: pool/main/a/ant-stack/AntStack_0.2.6_amd64.deb

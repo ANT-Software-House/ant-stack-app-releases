@@ -1,35 +1,35 @@
 {
-  "version": "0.2.9",
+  "version": "0.3.0",
   "notes": "See CHANGELOG.md for details.",
-  "pub_date": "2026-08-25T21:32:42.997Z",
+  "pub_date": "2026-08-27T21:34:31.361Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WndHb1hCZ3QzTjhMZXdJYWdqVEdLZGdiR2dGUk02emhwN3g3dGhqM1MzL0VnTlkyNGlMQzQwdmpOWmpHWEsyR1F2RCtCLzVuRm9yT1lCeFVHcHJOOHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNDk3CWZpbGU6QW50U3RhY2tfMC4yLjlfYW1kNjQuQXBwSW1hZ2UKYjRKRHJaeHN1ekVkNmFoeVpPTURIa2NXdlYrVklmek01RE5YNHoxbzI4SUp1Uk1wbG92UVBTOGJlL0Y1b2xtY2JsSUNUMTRrZjR6SHNCQmFCZDZtRGc9PQo=",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjlWcTBmL2pLS0pyNEliQVQrb2JKZlA2eDJpQXRieGZmd3QzR0c4eXduZXNNVlp2V1dtaU05bUIxdlh6YXUyK1FUU2o1SEpxUWhQcUczd3JpT1RTUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY1Nzg0CWZpbGU6QW50U3RhY2tfMC4zLjBfYW1kNjQuQXBwSW1hZ2UKMUNBaVE3OHE1ZE9rNmlaaE5RUVlacndOcllGL2NPTkF0SlBkcFA0R0k0eEFlL2tBc0UrL3MwSXRDalVGclYxYkNOckZOd3k1Q3V2YmZnZ2pSMlFVQ3c9PQo=",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WndHb1hCZ3QzTjhMZXdJYWdqVEdLZGdiR2dGUk02emhwN3g3dGhqM1MzL0VnTlkyNGlMQzQwdmpOWmpHWEsyR1F2RCtCLzVuRm9yT1lCeFVHcHJOOHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNDk3CWZpbGU6QW50U3RhY2tfMC4yLjlfYW1kNjQuQXBwSW1hZ2UKYjRKRHJaeHN1ekVkNmFoeVpPTURIa2NXdlYrVklmek01RE5YNHoxbzI4SUp1Uk1wbG92UVBTOGJlL0Y1b2xtY2JsSUNUMTRrZjR6SHNCQmFCZDZtRGc9PQo=",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjlWcTBmL2pLS0pyNEliQVQrb2JKZlA2eDJpQXRieGZmd3QzR0c4eXduZXNNVlp2V1dtaU05bUIxdlh6YXUyK1FUU2o1SEpxUWhQcUczd3JpT1RTUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY1Nzg0CWZpbGU6QW50U3RhY2tfMC4zLjBfYW1kNjQuQXBwSW1hZ2UKMUNBaVE3OHE1ZE9rNmlaaE5RUVlacndOcllGL2NPTkF0SlBkcFA0R0k0eEFlL2tBc0UrL3MwSXRDalVGclYxYkNOckZOd3k1Q3V2YmZnZ2pSMlFVQ3c9PQo=",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjYwWkEyUmhnYnBCbW54T2ViTUJBOCtERkFxemRTT0loTnB1MkVwbjB4dXpibjlia3A4TE1uTzhlYmhoY1JOMkpYb3B0ZitPTzh3ckQ0TWNhb3pNM1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNDk3CWZpbGU6QW50U3RhY2tfMC4yLjlfYW1kNjQuZGViCit1cWJyckJEcGNmenpHN0lKRlFXUEgyTnlHM1NkWFRMOVo5YUNWYlJwYWN4TUIwWXlXbmRrYWJFVHVMKzlPNkVhZnRrQUtMNE5yaDBwUldhcFpMb0JnPT0K",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjEwbUgzWG1uOUZIVnk5dm9kL0dUMTZBOWsraGFVV2xjUU9iVnA3SFIzZlpSUk9udGlyRzcra0tHV2x0Z3h4RHg4N0ZzZ0JxR3pFbkdXVmtJYkFkcXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY1Nzg0CWZpbGU6QW50U3RhY2tfMC4zLjBfYW1kNjQuZGViCnlmZlRJMVRyQ3BPc2lyMVo4RlBpSzE0UUJIcmRubTdRYnd6UFd0Tm0wSlVnY05YbWZUY1ViTXpaSk5pMzBzL2d0WXl3amFneDNZMnB3OWtOMGF4ckRBPT0K",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjRxUWx1RWJOMjJyYjd0TG9HUGg1cnoxSG93U2w4TVVpcVRkQlF3eUg2YzFJaTRxbHRxS1pIcVRSbGN2eWluMjUvZmcvNWFXOVd5VTFCcTFNUCtMdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNDk3CWZpbGU6QW50U3RhY2stMC4yLjktMS54ODZfNjQucnBtClFWbWxBVlFOdnhKeVo2ZFNXNk9lU0NCNG84dHZKaGJOODJVWWdZOTRpMmhCRHVlNi9RYU1hTmpYZDJSZXJkeGE5Nzd3cU5xbEdFK3R2VGJVVXJqMEF3PT0K",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack-0.2.9-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0Wnd3M1RNdGlpYXlTRmRaQkpwZU0rMW1YVXFBbFovMWdpYjFVWGtOYXdzNnlGVGpjZHRVNndRc29RY3krSDV6MUwwYlRLaXowZWtOT1BNVDVBdytEVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY1Nzg0CWZpbGU6QW50U3RhY2stMC4zLjAtMS54ODZfNjQucnBtCmpJMDM0VVBuaDZmUmlOMU5IdkdiMmtCNHVmejhHd2NjWGIrbmpQNnh2ZnpGU2I1RjdqOFJDVUJLTXNlaFFiL2tXM3hsZU1KNXBadjBhbk1DRHdnQ0NRPT0K",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack-0.3.0-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjFMMERUcUFPdVhDZXpZd0xENnUxQVdFU28yeGxSNnVnYkJrZ1pyT1VqaW5FS1hGWTVmRDhGWDd3UGZqd2V0UWRpZmk1Q2FKWE45Q3BzaGhpR0FtU3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNTUzCWZpbGU6QW50U3RhY2tfMC4yLjlfeDY0X2VuLVVTLm1zaQpDbVUyUDBuTkdnTksvVlpwYjBkQ09JMkNRNW1NdlMrZHhUcXFTbXJQK2d5aUZ4STRicElZbGZjRWdiUVhTWmRFVmpWeUtSRTZwVkNvMGJITkVJL0RBUT09Cg==",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjEzdHVVSmlvRmtBaVJtWjJTQzJuTXUyM1NKQjMxVGY1OGJvWUdSVk01WEhIZUFLVjlSTHJlRS95N09NWUhNM2ovRHFaZTNKS0txMnI5U0tiYXB6RFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY2NDY3CWZpbGU6QW50U3RhY2tfMC4zLjBfeDY0X2VuLVVTLm1zaQpDQzBSdnkycitVeEUxWENEVFhYeXRhUzI2OFo0SE95bTFtdkNoMnJmWWVjTy9jdkd0dHF6alNiM2NLZElERGZiMi9qRkNqd1VxL2ZhY3kxU0x2R05BUT09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjFMMERUcUFPdVhDZXpZd0xENnUxQVdFU28yeGxSNnVnYkJrZ1pyT1VqaW5FS1hGWTVmRDhGWDd3UGZqd2V0UWRpZmk1Q2FKWE45Q3BzaGhpR0FtU3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNTUzCWZpbGU6QW50U3RhY2tfMC4yLjlfeDY0X2VuLVVTLm1zaQpDbVUyUDBuTkdnTksvVlpwYjBkQ09JMkNRNW1NdlMrZHhUcXFTbXJQK2d5aUZ4STRicElZbGZjRWdiUVhTWmRFVmpWeUtSRTZwVkNvMGJITkVJL0RBUT09Cg==",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjEzdHVVSmlvRmtBaVJtWjJTQzJuTXUyM1NKQjMxVGY1OGJvWUdSVk01WEhIZUFLVjlSTHJlRS95N09NWUhNM2ovRHFaZTNKS0txMnI5U0tiYXB6RFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY2NDY3CWZpbGU6QW50U3RhY2tfMC4zLjBfeDY0X2VuLVVTLm1zaQpDQzBSdnkycitVeEUxWENEVFhYeXRhUzI2OFo0SE95bTFtdkNoMnJmWWVjTy9jdkd0dHF6alNiM2NLZElERGZiMi9qRkNqd1VxL2ZhY3kxU0x2R05BUT09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjR1NnlKNlg0WUJRSHNCazh1bWlTajlKdndaemhWNFRhVWV3NUtZQzY3ZERJUlFVSDRSRTBySzdFdm1CVC9MZ2ttQlpGM3Iyd09MbXBiOUhNeTBKMmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjkzNTUzCWZpbGU6QW50U3RhY2tfMC4yLjlfeDY0LXNldHVwLmV4ZQpKLzQxWEhWd3lrTE1odWxnWjd2UE5lUkN0K3ZLQk1CKzMvSWFUQmc3UGp1cm9CQTIzNVRiR0o4cWxKeFp0T0pham10aFNzRW5VdE1tc0hqa3I4M3JEUT09Cg==",
-      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.2.9/AntStack_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS21IUVlCQUR0WjR2dlFCRndtcnpCNEYyb3FVcURNRE1rVWIyS0MzRUU1VEk5YkgvTzREdmUzNk1UaEVaMnRaRW42SWsxNlFUUk1ONm14cG1KRUR6c2ZkS1gxdUJJOEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY2NDY3CWZpbGU6QW50U3RhY2tfMC4zLjBfeDY0LXNldHVwLmV4ZQpoMWdBeHJsb3p1QWFndFlGckN2Y2Z0bGl0a3dqOUdMVCtodkFpcTh6VndGK01UaHlNdHZmS1dXY2s5YXkxUzFLaSt3dHJiZUhmS1lzeDZNQWNFaGtDdz09Cg==",
+      "url": "https://antstackpoc5qz23iwe.blob.core.windows.net/installers/v0.3.0/AntStack_0.3.0_x64-setup.exe"
     }
   }
 }
